@@ -7,7 +7,6 @@ This repository contains the code and the **full technical report** for a univer
 ## Project Context
 * **Type:** Group Assignment (2 Members)
 * **Course:** Pattern Recognition
-* **My Contribution:** Focused on the Neural Network implementation and Data Visualization.
 
 ## Approaches Implemented
 We implemented four distinct strategies to showcase different levels of complexity:
