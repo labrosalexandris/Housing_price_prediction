@@ -12,7 +12,7 @@ This repository contains the code and the **full technical report** for a univer
 We implemented four distinct strategies to showcase different levels of complexity:
 
 1.  **Data Visualization (`Data_visualization.py`):**
-    * Exploratory Data Analysis (EDA) using Matplotlib and Seaborn.
+    * Data Analysis using Matplotlib and Seaborn.
 2.  **Mathematical Approach (`Least_squares.py`):**
     * Implementation of the **Least Squares** method from scratch using NumPy.
 3.  **Algorithmic Approach (`Linear_perceptron.py`):**
